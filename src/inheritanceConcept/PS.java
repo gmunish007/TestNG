@@ -23,5 +23,7 @@ public class PS {
 	public void newLine() {
 		System.out.println("upload first line.");
 		System.out.println("upload second line.");
+		System.out.println("upload third line.");
+		
 	}
 }
