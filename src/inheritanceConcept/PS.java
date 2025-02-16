@@ -21,7 +21,7 @@ public class PS {
 	
 	@Test
 	public void newLine() {
-		System.out.println("upload first line.");
+		
 		System.out.println("upload second line.");
 		System.out.println("upload third line.");
 		System.out.println("upload fouth line.");
