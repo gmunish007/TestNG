@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd"> -->
+<suite name="Loan Departent">
+  <test thread-count="5" name="Personal Loan">
+    
+    <!--running all sites, classes and methods without calling all the file names one by one. 
+    Running all the packages together-->
+    <packages>
+    
+    <!-- now all the Test Cases belonging to this package will run-->
+    	<package name="test" />
+    </packages>
+    
+  </test>
+</suite> <!-- Suite -->
